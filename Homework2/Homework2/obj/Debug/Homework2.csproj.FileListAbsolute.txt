@@ -1,6 +1,0 @@
-D:\programming 1\Programming-intro1\Homework 2\Homework2\Homework2\bin\Debug\Homework2.exe.config
-D:\programming 1\Programming-intro1\Homework 2\Homework2\Homework2\bin\Debug\Homework2.exe
-D:\programming 1\Programming-intro1\Homework 2\Homework2\Homework2\bin\Debug\Homework2.pdb
-D:\programming 1\Programming-intro1\Homework 2\Homework2\Homework2\obj\Debug\Homework2.exe
-D:\programming 1\Programming-intro1\Homework 2\Homework2\Homework2\obj\Debug\Homework2.pdb
-D:\programming 1\Programming-intro1\Homework 2\Homework2\Homework2\obj\Debug\Homework2.csprojResolveAssemblyReference.cache
