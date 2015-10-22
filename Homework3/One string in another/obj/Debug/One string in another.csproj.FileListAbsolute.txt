@@ -1,0 +1,11 @@
+D:\Programming-intro1\Solution1\One string in another\bin\Debug\One string in another.exe.config
+D:\Programming-intro1\Solution1\One string in another\bin\Debug\One string in another.exe
+D:\Programming-intro1\Solution1\One string in another\bin\Debug\One string in another.pdb
+D:\Programming-intro1\Solution1\One string in another\obj\Debug\One string in another.exe
+D:\Programming-intro1\Solution1\One string in another\obj\Debug\One string in another.pdb
+D:\Programming-intro1\Homework3\One string in another\bin\Debug\One string in another.exe.config
+D:\Programming-intro1\Homework3\One string in another\obj\Debug\One string in another.exe
+D:\Programming-intro1\Homework3\One string in another\obj\Debug\One string in another.pdb
+D:\Programming-intro1\Homework3\One string in another\bin\Debug\One string in another.exe
+D:\Programming-intro1\Homework3\One string in another\bin\Debug\One string in another.pdb
+D:\Programming-intro1\Homework3\One string in another\obj\Debug\One string in another.csprojResolveAssemblyReference.cache

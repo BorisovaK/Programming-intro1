@@ -1,0 +1,5 @@
+D:\Programming-intro1\Solution1\Symbols from a string\bin\Debug\Symbols from a string.exe.config
+D:\Programming-intro1\Solution1\Symbols from a string\bin\Debug\Symbols from a string.exe
+D:\Programming-intro1\Solution1\Symbols from a string\bin\Debug\Symbols from a string.pdb
+D:\Programming-intro1\Solution1\Symbols from a string\obj\Debug\Symbols from a string.exe
+D:\Programming-intro1\Solution1\Symbols from a string\obj\Debug\Symbols from a string.pdb

@@ -1,0 +1,12 @@
+D:\Programming-intro1\Solution1\S trian\bin\Debug\S trian.exe.config
+D:\Programming-intro1\Solution1\S trian\bin\Debug\S trian.exe
+D:\Programming-intro1\Solution1\S trian\bin\Debug\S trian.pdb
+D:\Programming-intro1\Solution1\S trian\obj\Debug\S trian.csprojResolveAssemblyReference.cache
+D:\Programming-intro1\Solution1\S trian\obj\Debug\S trian.exe
+D:\Programming-intro1\Solution1\S trian\obj\Debug\S trian.pdb
+D:\Programming-intro1\Homework3\S trian\bin\Debug\S trian.exe.config
+D:\Programming-intro1\Homework3\S trian\obj\Debug\S trian.exe
+D:\Programming-intro1\Homework3\S trian\obj\Debug\S trian.pdb
+D:\Programming-intro1\Homework3\S trian\bin\Debug\S trian.exe
+D:\Programming-intro1\Homework3\S trian\bin\Debug\S trian.pdb
+D:\Programming-intro1\Homework3\S trian\obj\Debug\S trian.csprojResolveAssemblyReference.cache

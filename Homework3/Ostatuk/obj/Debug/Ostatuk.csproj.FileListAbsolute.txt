@@ -1,0 +1,8 @@
+D:\Programming-intro1\Solution1\Ostatuk\bin\Debug\Ostatuk.exe.config
+D:\Programming-intro1\Solution1\Ostatuk\bin\Debug\Ostatuk.exe
+D:\Programming-intro1\Solution1\Ostatuk\bin\Debug\Ostatuk.pdb
+D:\Programming-intro1\Solution1\Ostatuk\obj\Debug\Ostatuk.exe
+D:\Programming-intro1\Solution1\Ostatuk\obj\Debug\Ostatuk.pdb
+D:\Programming-intro1\Homework3\Ostatuk\bin\Debug\Ostatuk.exe.config
+D:\Programming-intro1\Homework3\Ostatuk\obj\Debug\Ostatuk.exe
+D:\Programming-intro1\Homework3\Ostatuk\obj\Debug\Ostatuk.pdb

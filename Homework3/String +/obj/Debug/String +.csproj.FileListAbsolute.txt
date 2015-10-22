@@ -1,0 +1,5 @@
+D:\Programming-intro1\Solution1\String +\bin\Debug\String +.exe.config
+D:\Programming-intro1\Solution1\String +\bin\Debug\String +.exe
+D:\Programming-intro1\Solution1\String +\bin\Debug\String +.pdb
+D:\Programming-intro1\Solution1\String +\obj\Debug\String +.exe
+D:\Programming-intro1\Solution1\String +\obj\Debug\String +.pdb

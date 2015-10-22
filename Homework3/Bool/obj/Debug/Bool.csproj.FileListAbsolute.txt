@@ -1,0 +1,5 @@
+D:\Programming-intro1\Solution1\Bool\bin\Debug\Bool.exe.config
+D:\Programming-intro1\Solution1\Bool\bin\Debug\Bool.exe
+D:\Programming-intro1\Solution1\Bool\bin\Debug\Bool.pdb
+D:\Programming-intro1\Solution1\Bool\obj\Debug\Bool.exe
+D:\Programming-intro1\Solution1\Bool\obj\Debug\Bool.pdb

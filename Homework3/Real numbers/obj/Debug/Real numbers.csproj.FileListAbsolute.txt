@@ -1,0 +1,8 @@
+D:\Programming-intro1\Solution1\Real numbers\bin\Debug\Real numbers.exe.config
+D:\Programming-intro1\Solution1\Real numbers\bin\Debug\Real numbers.exe
+D:\Programming-intro1\Solution1\Real numbers\bin\Debug\Real numbers.pdb
+D:\Programming-intro1\Solution1\Real numbers\obj\Debug\Real numbers.exe
+D:\Programming-intro1\Solution1\Real numbers\obj\Debug\Real numbers.pdb
+D:\Programming-intro1\Homework3\Real numbers\bin\Debug\Real numbers.exe.config
+D:\Programming-intro1\Homework3\Real numbers\obj\Debug\Real numbers.exe
+D:\Programming-intro1\Homework3\Real numbers\obj\Debug\Real numbers.pdb
