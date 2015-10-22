@@ -13,7 +13,6 @@ namespace Homework2
             Console.WriteLine("Hello World, my name is Katrin and this is my first program!");
             Console.WriteLine("I hope that this is not my last program");
             Console.Read();
-            
         }
     }
 }
