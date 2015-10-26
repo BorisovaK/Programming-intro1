@@ -1,0 +1,6 @@
+D:\Programming-intro1\Homework 4\Card program 3\bin\Debug\Card program 3.exe.config
+D:\Programming-intro1\Homework 4\Card program 3\bin\Debug\Card program 3.exe
+D:\Programming-intro1\Homework 4\Card program 3\bin\Debug\Card program 3.pdb
+D:\Programming-intro1\Homework 4\Card program 3\obj\Debug\Card program 3.csprojResolveAssemblyReference.cache
+D:\Programming-intro1\Homework 4\Card program 3\obj\Debug\Card program 3.exe
+D:\Programming-intro1\Homework 4\Card program 3\obj\Debug\Card program 3.pdb

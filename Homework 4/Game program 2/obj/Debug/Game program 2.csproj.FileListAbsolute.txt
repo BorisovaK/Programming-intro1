@@ -1,0 +1,5 @@
+D:\Programming-intro1\Homework 4\Game program 2\bin\Debug\Game program 2.exe.config
+D:\Programming-intro1\Homework 4\Game program 2\bin\Debug\Game program 2.exe
+D:\Programming-intro1\Homework 4\Game program 2\bin\Debug\Game program 2.pdb
+D:\Programming-intro1\Homework 4\Game program 2\obj\Debug\Game program 2.exe
+D:\Programming-intro1\Homework 4\Game program 2\obj\Debug\Game program 2.pdb
