@@ -11,50 +11,46 @@ namespace Card_program_3
         static void Main(string[] args)
         {
             Console.WriteLine("What card did you chose?");
-            int card = int.Parse(Console.ReadLine());
+            string card = (Console.ReadLine());
             switch (card)
             {
-                case 2:
+                case "2":
                     Console.WriteLine("The card is valid");
                     break;
-                case 3:                   
+                case "3":                   
                     Console.WriteLine("The card is valid");
                     break;
-                case 4:                  
+                case "4":                  
                     Console.WriteLine("The card is valid");
                     break;
-                case 5:
+                case "5":
                     Console.WriteLine("The card is valid");
                     break;
-                case 6:
+                case "6":
                     Console.WriteLine("The card is valid");
                     break;
-                case 7:
+                case "7":
                     Console.WriteLine("The card is valid");
                     break;
-                case 8:
+                case "8":
                     Console.WriteLine("The card is valid");
                     break;
-                case 9:
+                case "9":
                     Console.WriteLine("The card is valid");
                     break;
-                case 10:
+                case "10":
                     Console.WriteLine("The card is valid");
                     break;
-                case 11:
-                    string J = (Console.ReadLine());
+                case "J":
                     Console.WriteLine("The card is valid");
                     break;
-                case 12:
-                    string Q = (Console.ReadLine());
+                case "Q":
                     Console.WriteLine("The card is valid");
                     break;
-                case 13:
-                    string K = (Console.ReadLine());
+                case "K":
                     Console.WriteLine("The card is valid");
                     break;
-                case 14:
-                    string A = (Console.ReadLine());
+                case "A":
                     Console.WriteLine("The card is valid");
                     break;
                 default:
