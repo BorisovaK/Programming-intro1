@@ -1,6 +1,0 @@
-D:\Programming-intro1\Zadacha\String\bin\Debug\String.exe.config
-D:\Programming-intro1\Zadacha\String\bin\Debug\String.exe
-D:\Programming-intro1\Zadacha\String\bin\Debug\String.pdb
-D:\Programming-intro1\Zadacha\String\obj\Debug\String.csprojResolveAssemblyReference.cache
-D:\Programming-intro1\Zadacha\String\obj\Debug\String.exe
-D:\Programming-intro1\Zadacha\String\obj\Debug\String.pdb
