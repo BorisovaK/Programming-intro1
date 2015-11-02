@@ -10,28 +10,34 @@ namespace Third_program
     {
         static void Main(string[] args)
         {
-            int num1 = 0, num2 = 0, num3 = 0;
+            int i = 0, number, smallestNumber = 0, largestNumber = 0;
 
-            Console.WriteLine("lowest");
-
-            Console.WriteLine("input 1st number");
-            num1 = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("input 2nd number");
-            num2 = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("input 3rd number");
-            num3 = int.Parse(Console.ReadLine());
-
-
-            int lowest = ((num1 < num2 ? num1 : num2) < num3 ?
-                (num1 < num2 ? num1 : num2) : num3);
-            int highest = ((num1 > num2 ? num1 : num2) > num3 ?
-                (num1 > num2 ? num1 : num2) : num3);
-
-            Console.WriteLine(" lowest is {0} ", lowest);
-            Console.WriteLine(" highest is {0} ", highest);
+            while (i != 5)
+            {
+                Console.WriteLine("Enter number: ");
+                number = Int32.Parse(Console.ReadLine());
+                if (i == 0)
+                {
+                    smallestNumber = number;
+                    largestNumber = number;
+                }
+                else
+                {
+                    if (smallestNumber > number)
+                    {
+                        smallestNumber = number;
+                    }
+                    if (largestNumber < number)
+                    {
+                        largestNumber = number;
+                    }
+                }
+                i++;
+            }
+            Console.WriteLine("The largest number is " + largestNumber);
+            Console.WriteLine("The smallest number is " + smallestNumber);
             Console.ReadLine();
+
 
         }
     }
