@@ -1,0 +1,6 @@
+D:\Programming-intro1\Homerwork 6\CreateArray\bin\Debug\CreateArray.exe.config
+D:\Programming-intro1\Homerwork 6\CreateArray\bin\Debug\CreateArray.exe
+D:\Programming-intro1\Homerwork 6\CreateArray\bin\Debug\CreateArray.pdb
+D:\Programming-intro1\Homerwork 6\CreateArray\obj\Debug\CreateArray.csprojResolveAssemblyReference.cache
+D:\Programming-intro1\Homerwork 6\CreateArray\obj\Debug\CreateArray.exe
+D:\Programming-intro1\Homerwork 6\CreateArray\obj\Debug\CreateArray.pdb

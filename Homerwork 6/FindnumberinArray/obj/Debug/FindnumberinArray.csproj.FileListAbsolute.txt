@@ -1,0 +1,5 @@
+D:\Programming-intro1\Homerwork 6\FindnumberinArray\bin\Debug\FindnumberinArray.exe.config
+D:\Programming-intro1\Homerwork 6\FindnumberinArray\bin\Debug\FindnumberinArray.exe
+D:\Programming-intro1\Homerwork 6\FindnumberinArray\bin\Debug\FindnumberinArray.pdb
+D:\Programming-intro1\Homerwork 6\FindnumberinArray\obj\Debug\FindnumberinArray.exe
+D:\Programming-intro1\Homerwork 6\FindnumberinArray\obj\Debug\FindnumberinArray.pdb

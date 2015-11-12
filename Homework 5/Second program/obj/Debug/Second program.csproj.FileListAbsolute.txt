@@ -1,0 +1,6 @@
+D:\Programming-intro1\Homework 5\Second program\bin\Debug\Second program.exe.config
+D:\Programming-intro1\Homework 5\Second program\bin\Debug\Second program.exe
+D:\Programming-intro1\Homework 5\Second program\bin\Debug\Second program.pdb
+D:\Programming-intro1\Homework 5\Second program\obj\Debug\Second program.csprojResolveAssemblyReference.cache
+D:\Programming-intro1\Homework 5\Second program\obj\Debug\Second program.exe
+D:\Programming-intro1\Homework 5\Second program\obj\Debug\Second program.pdb

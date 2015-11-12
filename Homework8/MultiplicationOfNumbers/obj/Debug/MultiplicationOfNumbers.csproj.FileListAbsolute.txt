@@ -1,0 +1,6 @@
+c:\users\catherine borisova\documents\visual studio 2015\Projects\Homework8\MultiplicationOfNumbers\bin\Debug\MultiplicationOfNumbers.exe.config
+c:\users\catherine borisova\documents\visual studio 2015\Projects\Homework8\MultiplicationOfNumbers\bin\Debug\MultiplicationOfNumbers.exe
+c:\users\catherine borisova\documents\visual studio 2015\Projects\Homework8\MultiplicationOfNumbers\bin\Debug\MultiplicationOfNumbers.pdb
+c:\users\catherine borisova\documents\visual studio 2015\Projects\Homework8\MultiplicationOfNumbers\obj\Debug\MultiplicationOfNumbers.csprojResolveAssemblyReference.cache
+c:\users\catherine borisova\documents\visual studio 2015\Projects\Homework8\MultiplicationOfNumbers\obj\Debug\MultiplicationOfNumbers.exe
+c:\users\catherine borisova\documents\visual studio 2015\Projects\Homework8\MultiplicationOfNumbers\obj\Debug\MultiplicationOfNumbers.pdb

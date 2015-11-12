@@ -1,0 +1,5 @@
+D:\Programming-intro1\Homework7\Task3\bin\Debug\Task3.exe.config
+D:\Programming-intro1\Homework7\Task3\bin\Debug\Task3.exe
+D:\Programming-intro1\Homework7\Task3\bin\Debug\Task3.pdb
+D:\Programming-intro1\Homework7\Task3\obj\Debug\Task3.exe
+D:\Programming-intro1\Homework7\Task3\obj\Debug\Task3.pdb

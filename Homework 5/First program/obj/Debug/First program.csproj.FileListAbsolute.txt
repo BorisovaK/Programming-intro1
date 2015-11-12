@@ -1,0 +1,6 @@
+D:\Programming-intro1\Homework 5\First program\bin\Debug\First program.exe.config
+D:\Programming-intro1\Homework 5\First program\bin\Debug\First program.exe
+D:\Programming-intro1\Homework 5\First program\bin\Debug\First program.pdb
+D:\Programming-intro1\Homework 5\First program\obj\Debug\First program.csprojResolveAssemblyReference.cache
+D:\Programming-intro1\Homework 5\First program\obj\Debug\First program.exe
+D:\Programming-intro1\Homework 5\First program\obj\Debug\First program.pdb

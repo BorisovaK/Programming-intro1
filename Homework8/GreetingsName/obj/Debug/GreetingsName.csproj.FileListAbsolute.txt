@@ -1,0 +1,6 @@
+c:\users\catherine borisova\documents\visual studio 2015\Projects\Homework8\GreetingsName\bin\Debug\GreetingsName.exe.config
+c:\users\catherine borisova\documents\visual studio 2015\Projects\Homework8\GreetingsName\bin\Debug\GreetingsName.exe
+c:\users\catherine borisova\documents\visual studio 2015\Projects\Homework8\GreetingsName\bin\Debug\GreetingsName.pdb
+c:\users\catherine borisova\documents\visual studio 2015\Projects\Homework8\GreetingsName\obj\Debug\GreetingsName.exe
+c:\users\catherine borisova\documents\visual studio 2015\Projects\Homework8\GreetingsName\obj\Debug\GreetingsName.pdb
+C:\Users\Catherine Borisova\Documents\Visual Studio 2015\Projects\Homework8\GreetingsName\obj\Debug\GreetingsName.csprojResolveAssemblyReference.cache

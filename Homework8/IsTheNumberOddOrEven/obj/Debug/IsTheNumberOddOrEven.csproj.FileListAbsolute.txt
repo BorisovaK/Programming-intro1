@@ -1,0 +1,6 @@
+C:\Users\Catherine Borisova\Documents\Visual Studio 2015\Projects\Homework8\IsTheNumberOddOrEven\bin\Debug\IsTheNumberOddOrEven.exe.config
+C:\Users\Catherine Borisova\Documents\Visual Studio 2015\Projects\Homework8\IsTheNumberOddOrEven\bin\Debug\IsTheNumberOddOrEven.exe
+C:\Users\Catherine Borisova\Documents\Visual Studio 2015\Projects\Homework8\IsTheNumberOddOrEven\bin\Debug\IsTheNumberOddOrEven.pdb
+C:\Users\Catherine Borisova\Documents\Visual Studio 2015\Projects\Homework8\IsTheNumberOddOrEven\obj\Debug\IsTheNumberOddOrEven.csprojResolveAssemblyReference.cache
+C:\Users\Catherine Borisova\Documents\Visual Studio 2015\Projects\Homework8\IsTheNumberOddOrEven\obj\Debug\IsTheNumberOddOrEven.exe
+C:\Users\Catherine Borisova\Documents\Visual Studio 2015\Projects\Homework8\IsTheNumberOddOrEven\obj\Debug\IsTheNumberOddOrEven.pdb

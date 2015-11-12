@@ -1,0 +1,6 @@
+D:\Programming-intro1\Homerwork 6\SumOfEvennumbers\bin\Debug\SumOfEvennumbers.exe.config
+D:\Programming-intro1\Homerwork 6\SumOfEvennumbers\bin\Debug\SumOfEvennumbers.exe
+D:\Programming-intro1\Homerwork 6\SumOfEvennumbers\bin\Debug\SumOfEvennumbers.pdb
+D:\Programming-intro1\Homerwork 6\SumOfEvennumbers\obj\Debug\SumOfEvennumbers.exe
+D:\Programming-intro1\Homerwork 6\SumOfEvennumbers\obj\Debug\SumOfEvennumbers.pdb
+D:\Programming-intro1\Homerwork 6\SumOfEvennumbers\obj\Debug\SumOfEvennumbers.csprojResolveAssemblyReference.cache
